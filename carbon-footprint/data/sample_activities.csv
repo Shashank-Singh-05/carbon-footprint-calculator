@@ -1,0 +1,88 @@
+date,category,subtype,value,unit,notes
+2025-01-01,energy,electricity_kwh,12,kWh,Home electricity
+2025-01-01,transport,car_km_petrol,10,km,Office commute
+2025-01-01,food,meat_meal,1,meal,Lunch
+2025-01-02,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-02,transport,car_km_petrol,12,km,Office commute
+2025-01-02,food,vegetarian_meal,1,meal,Dinner
+2025-01-03,energy,electricity_kwh,13,kWh,Home electricity
+2025-01-03,transport,train_km,15,km,City travel
+2025-01-03,food,meat_meal,1,meal,Lunch
+2025-01-04,energy,electricity_kwh,10,kWh,Home electricity
+2025-01-04,transport,bicycle_km,4,km,Short errand
+2025-01-04,food,vegetarian_meal,1,meal,Dinner
+2025-01-05,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-05,transport,car_km_petrol,8,km,Grocery trip
+2025-01-05,food,meat_meal,1,meal,Lunch
+2025-01-06,energy,electricity_kwh,14,kWh,Weekend usage
+2025-01-06,transport,bus_km,6,km,City travel
+2025-01-06,food,vegetarian_meal,1,meal,Dinner
+2025-01-07,energy,electricity_kwh,12,kWh,Home electricity
+2025-01-07,transport,car_km_petrol,10,km,Office commute
+2025-01-07,food,meat_meal,1,meal,Lunch
+2025-01-08,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-08,transport,train_km,18,km,Office commute
+2025-01-08,food,vegetarian_meal,1,meal,Dinner
+2025-01-09,energy,electricity_kwh,12,kWh,Home electricity
+2025-01-09,transport,car_km_petrol,12,km,Office commute
+2025-01-09,food,meat_meal,1,meal,Lunch
+2025-01-10,energy,electricity_kwh,13,kWh,Home electricity
+2025-01-10,transport,bicycle_km,3,km,Errand
+2025-01-10,food,vegetarian_meal,1,meal,Dinner
+2025-01-11,energy,electricity_kwh,9,kWh,Low usage day
+2025-01-11,transport,car_km_petrol,7,km,Grocery trip
+2025-01-11,food,meat_meal,1,meal,Lunch
+2025-01-12,food,vegetarian_meal,1,meal,Dinner
+2025-01-13,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-13,food,meat_meal,1,meal,Lunch
+2025-01-14,energy,electricity_kwh,12,kWh,Home electricity
+2025-01-14,transport,bus_km,8,km,Travel
+2025-01-14,food,vegetarian_meal,1,meal,Dinner
+2025-01-15,energy,electricity_kwh,13,kWh,Home electricity
+2025-01-15,transport,car_km_petrol,12,km,Office commute
+2025-01-15,food,meat_meal,1,meal,Lunch
+2025-01-16,energy,electricity_kwh,10,kWh,Home electricity
+2025-01-16,transport,bicycle_km,4,km,Short trip
+2025-01-16,food,vegetarian_meal,1,meal,Dinner
+2025-01-17,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-17,transport,car_km_petrol,9,km,Office commute
+2025-01-17,food,meat_meal,1,meal,Lunch
+2025-01-18,energy,electricity_kwh,14,kWh,Weekend usage
+2025-01-18,transport,train_km,22,km,Travel
+2025-01-18,food,vegetarian_meal,1,meal,Dinner
+2025-01-19,energy,electricity_kwh,10,kWh,Home electricity
+2025-01-19,transport,bus_km,6,km,Travel
+2025-01-19,food,meat_meal,1,meal,Lunch
+2025-01-20,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-20,transport,car_km_petrol,10,km,Office commute
+2025-01-20,food,vegetarian_meal,1,meal,Dinner
+2025-01-21,energy,electricity_kwh,12,kWh,Home electricity
+2025-01-21,transport,car_km_petrol,11,km,Office commute
+2025-01-21,food,meat_meal,1,meal,Lunch
+2025-01-22,energy,electricity_kwh,13,kWh,Home electricity
+2025-01-22,transport,train_km,18,km,Travel
+2025-01-22,food,vegetarian_meal,1,meal,Dinner
+2025-01-23,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-23,transport,bus_km,7,km,Travel
+2025-01-23,food,meat_meal,1,meal,Lunch
+2025-01-24,energy,electricity_kwh,12,kWh,Home electricity
+2025-01-24,transport,car_km_petrol,9,km,Office commute
+2025-01-24,food,vegetarian_meal,1,meal,Dinner
+2025-01-25,energy,electricity_kwh,9,kWh,Low usage day
+2025-01-25,transport,bicycle_km,5,km,Weekend ride
+2025-01-25,food,vegetarian_meal,1,meal,Dinner
+2025-01-26,energy,electricity_kwh,14,kWh,Weekend usage
+2025-01-26,transport,car_km_petrol,12,km,Travel
+2025-01-26,food,meat_meal,1,meal,Lunch
+2025-01-27,energy,electricity_kwh,10,kWh,Home electricity
+2025-01-27,transport,train_km,15,km,Travel
+2025-01-27,food,vegetarian_meal,1,meal,Dinner
+2025-01-28,energy,electricity_kwh,11,kWh,Home electricity
+2025-01-28,transport,car_km_petrol,10,km,Office commute
+2025-01-28,food,meat_meal,1,meal,Lunch
+2025-01-29,energy,electricity_kwh,12,kWh,Home electricity
+2025-01-29,transport,bus_km,7,km,Travel
+2025-01-29,food,vegetarian_meal,1,meal,Dinner
+2025-01-30,energy,electricity_kwh,13,kWh,Home electricity
+2025-01-30,transport,car_km_petrol,11,km,Office commute
+2025-01-30,food,meat_meal,1,meal,Lunch

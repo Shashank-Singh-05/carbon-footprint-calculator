@@ -1,0 +1,9 @@
+com\carbon\ingestion\FactorLoader.class
+com\carbon\ingestion\FactorLoader$1.class
+com\carbon\model\ActivityEntry.class
+com\carbon\calculator\EmissionCalculator.class
+com\carbon\MainApp.class
+com\carbon\persistence\ActivityDAO.class
+com\carbon\persistence\DatabaseManager.class
+com\carbon\ingestion\CSVImporter.class
+com\carbon\recommender\RecommendationEngine.class

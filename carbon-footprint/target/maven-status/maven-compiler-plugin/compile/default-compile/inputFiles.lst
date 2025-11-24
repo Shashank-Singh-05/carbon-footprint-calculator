@@ -1,0 +1,8 @@
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\calculator\EmissionCalculator.java
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\ingestion\CSVImporter.java
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\ingestion\FactorLoader.java
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\MainApp.java
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\model\ActivityEntry.java
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\persistence\ActivityDAO.java
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\persistence\DatabaseManager.java
+D:\AA\Projects\carbon-footprint\src\main\java\com\carbon\recommender\RecommendationEngine.java

@@ -1,0 +1,19 @@
+{
+  "energy": {
+    "electricity_kwh": 0.233
+  },
+  "transport": {
+    "car_km_petrol": 0.192,
+    "bus_km": 0.089,
+    "train_km": 0.041,
+    "bicycle_km": 0.0
+  },
+  "food": {
+    "meat_meal": 7.0,
+    "vegetarian_meal": 2.5,
+    "vegan_meal": 1.8
+  },
+  "national_average": {
+    "monthly_kgCO2e_per_person": 900.0
+  }
+}
